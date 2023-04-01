@@ -1,0 +1,97 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.banner {
+    background-image: url(banner.jpg);
+    width: 100%;
+    height: 900px;
+    background-repeat: no-repeat;
+}
+
+.about-us-sign-in {
+
+    height: 0px;
+}
+
+
+.about-us {
+    color: black;
+    width: 100px;
+    position: relative;
+    left: 1320px;
+    top: 40px;
+    text-transform: uppercase;
+    font-size: 13px;
+    text-decoration: none;
+}
+
+.sign-in {
+    border: 1px solid #8bc34a;
+    padding-left: 30px;
+    border-radius: 50px;
+    width: 40px;
+    color: #8bc34a;
+    position: relative;
+    left: 1330px;
+    top: 40px;
+    text-transform: uppercase;
+    font-size: 13px;
+    padding-right: 23px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 0 !important;
+    text-decoration: none;
+}
+
+.hapo {
+    background-image: url(https://harypham97.github.io/template-bootstrap/hapoERP.png);
+    height: 100px;
+    background-repeat: no-repeat;
+    position: relative;
+    top: 250px;
+    width: 1500px;
+    left: 830px;
+    background-size: 270px;
+}
+
+.better {
+    background-image: url(https://harypham97.github.io/template-bootstrap/icon-gift.svg);
+    height: 50px;
+    width: 50px;
+    padding: 10px;
+    background-repeat: no-repeat;
+    background-size: 48px;
+    position: relative;
+    top: 250px;
+    left: 590px;
+}
+
+.text-better {
+    font-size: 35px;
+    position: relative;
+    top: 15px;
+    right: 28px;
+}
+
+.faster {
+    background-image: url(https://harypham97.github.io/template-bootstrap/icon-clock.svg);
+    height: 100px;
+    width: 100px;
+    background-repeat: no-repeat;
+    background-size: 50px;
+    position: relative;
+    top: 150px;
+    left: 940px;
+}
+
+.text-faster {
+    height: 40px;
+    width: 40px;
+    font-size: 35px;
+    position: relative;
+    top: 55px;
+    right: 20px;
+}
